@@ -1,0 +1,14 @@
+C:\Users\jenfe\Documents\PROYECTO 2-B\bin\Debug\net8.0\PROYECTO 2-B.exe
+C:\Users\jenfe\Documents\PROYECTO 2-B\bin\Debug\net8.0\PROYECTO 2-B.deps.json
+C:\Users\jenfe\Documents\PROYECTO 2-B\bin\Debug\net8.0\PROYECTO 2-B.runtimeconfig.json
+C:\Users\jenfe\Documents\PROYECTO 2-B\bin\Debug\net8.0\PROYECTO 2-B.dll
+C:\Users\jenfe\Documents\PROYECTO 2-B\bin\Debug\net8.0\PROYECTO 2-B.pdb
+C:\Users\jenfe\Documents\PROYECTO 2-B\obj\Debug\net8.0\PROYECTO 2-B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenfe\Documents\PROYECTO 2-B\obj\Debug\net8.0\PROYECTO 2-B.AssemblyInfoInputs.cache
+C:\Users\jenfe\Documents\PROYECTO 2-B\obj\Debug\net8.0\PROYECTO 2-B.AssemblyInfo.cs
+C:\Users\jenfe\Documents\PROYECTO 2-B\obj\Debug\net8.0\PROYECTO 2-B.csproj.CoreCompileInputs.cache
+C:\Users\jenfe\Documents\PROYECTO 2-B\obj\Debug\net8.0\PROYECTO 2-B.dll
+C:\Users\jenfe\Documents\PROYECTO 2-B\obj\Debug\net8.0\refint\PROYECTO 2-B.dll
+C:\Users\jenfe\Documents\PROYECTO 2-B\obj\Debug\net8.0\PROYECTO 2-B.pdb
+C:\Users\jenfe\Documents\PROYECTO 2-B\obj\Debug\net8.0\PROYECTO 2-B.genruntimeconfig.cache
+C:\Users\jenfe\Documents\PROYECTO 2-B\obj\Debug\net8.0\ref\PROYECTO 2-B.dll
